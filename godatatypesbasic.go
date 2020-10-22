@@ -173,7 +173,7 @@ func forLoopPractice() {
 	}
 }
 
-func main() {
+/*func main() {
 	//printUserName()
 	//readUserInput()
 	//readUserInputAndConvertToFloat()
@@ -185,4 +185,4 @@ func main() {
 	//structPractice()
 	forLoopPractice()
 
-}
+}*/
