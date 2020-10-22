@@ -57,6 +57,10 @@ func restaurantRating() {
 	}
 }
 
+func Printmessage() {
+	fmt.Println("Anyone Can Call me as I am publicly Available")
+}
+
 func pointerPractice() {
 	var score float32 = 100
 	scoreAddress := &score
